@@ -1,0 +1,15 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    {{- with secret "projects-api/database/creds/projects-api-role" }}
+    "Database": "Server=SQLINFWWDTV04,1433;Database=HashiCorp;User Id={{ .Data.username }};Password={{ .Data.password }}"
+    {{- end }}
+  }
+}
