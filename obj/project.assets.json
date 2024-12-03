@@ -7969,11 +7969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Concept Projects\\WFM_Vault_POC\\ProjectApi\\ProjectApi.csproj",
+      "projectUniqueName": "C:\\Concept Projects\\testapp-azure-devops\\ProjectApi.csproj",
       "projectName": "ProjectApi",
-      "projectPath": "C:\\Concept Projects\\WFM_Vault_POC\\ProjectApi\\ProjectApi.csproj",
+      "projectPath": "C:\\Concept Projects\\testapp-azure-devops\\ProjectApi.csproj",
       "packagesPath": "C:\\Users\\yohalmod\\.nuget\\packages\\",
-      "outputPath": "C:\\Concept Projects\\WFM_Vault_POC\\ProjectApi\\obj\\",
+      "outputPath": "C:\\Concept Projects\\testapp-azure-devops\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

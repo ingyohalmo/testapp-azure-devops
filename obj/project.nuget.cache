@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V2WFgz/meUo=",
+  "dgSpecHash": "y3P7JPTF9/0=",
   "success": true,
-  "projectFilePath": "C:\\Concept Projects\\WFM_Vault_POC\\ProjectApi\\ProjectApi.csproj",
+  "projectFilePath": "C:\\Concept Projects\\testapp-azure-devops\\ProjectApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yohalmod\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\yohalmod\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
